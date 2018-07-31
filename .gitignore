@@ -1,6 +1,6 @@
 .DS_Store
 /nbproject/
-config.php
+#config.php
 apidoc.json
 /docs/
 private/db/.htaccess
